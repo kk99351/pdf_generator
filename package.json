@@ -1,0 +1,13 @@
+{
+  "name": "form_pdf_generator",
+  "author": "Kundan Verma",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "pdfkit": "^0.13.0",
+    "pdfkit-form": "^0.1.2",
+    "text-encoding": "^0.7.0"
+  }
+}
